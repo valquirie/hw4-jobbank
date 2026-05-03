@@ -1,0 +1,49 @@
+2026-05-03 11:08:49,396 [INFO] === worker-html starting ===
+2026-05-03 11:08:49,943 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=aircraft&sort=D
+2026-05-03 11:08:53,190 [INFO] found 15 job URLs
+2026-05-03 11:08:53,190 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49441632
+2026-05-03 11:08:54,829 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49441632.json
+2026-05-03 11:08:54,830 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49441632.json
+2026-05-03 11:08:54,830 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49441368
+2026-05-03 11:08:56,460 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49441368.json
+2026-05-03 11:08:56,460 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49441368.json
+2026-05-03 11:08:56,461 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49441387
+2026-05-03 11:08:58,132 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49441387.json
+2026-05-03 11:08:58,133 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49441387.json
+2026-05-03 11:08:58,133 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49437912
+2026-05-03 11:08:59,770 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49437912.json
+2026-05-03 11:08:59,770 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49437912.json
+2026-05-03 11:08:59,770 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49437328
+2026-05-03 11:09:01,424 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49437328.json
+2026-05-03 11:09:01,424 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49437328.json
+2026-05-03 11:09:01,425 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49435154
+2026-05-03 11:09:03,183 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49435154.json
+2026-05-03 11:09:03,184 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49435154.json
+2026-05-03 11:09:03,184 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49435081
+2026-05-03 11:09:04,839 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49435081.json
+2026-05-03 11:09:04,840 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49435081.json
+2026-05-03 11:09:04,840 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49434645
+2026-05-03 11:09:06,472 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49434645.json
+2026-05-03 11:09:06,473 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49434645.json
+2026-05-03 11:09:06,473 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49433545
+2026-05-03 11:09:08,136 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49433545.json
+2026-05-03 11:09:08,137 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49433545.json
+2026-05-03 11:09:08,137 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49431759
+2026-05-03 11:09:09,643 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49431759.json
+2026-05-03 11:09:09,644 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49431759.json
+2026-05-03 11:09:09,644 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49430904
+2026-05-03 11:09:11,303 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49430904.json
+2026-05-03 11:09:11,304 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49430904.json
+2026-05-03 11:09:11,304 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49431264
+2026-05-03 11:09:12,992 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49431264.json
+2026-05-03 11:09:12,993 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49431264.json
+2026-05-03 11:09:12,993 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49431123
+2026-05-03 11:09:14,573 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49431123.json
+2026-05-03 11:09:14,574 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49431123.json
+2026-05-03 11:09:14,574 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49430173
+2026-05-03 11:09:16,181 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49430173.json
+2026-05-03 11:09:16,182 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49430173.json
+2026-05-03 11:09:16,182 [INFO] crawling https://www.jobbank.gc.ca/jobsearch/jobposting/49427590
+2026-05-03 11:09:17,776 [INFO] saved → /app/data/raw/www_jobbank_gc_ca_jobsearch_jobposting_49427590.json
+2026-05-03 11:09:17,777 [INFO] saved → /app/data/normalized/www_jobbank_gc_ca_jobsearch_jobposting_49427590.json
+2026-05-03 11:09:17,848 [INFO] === worker-html done ===

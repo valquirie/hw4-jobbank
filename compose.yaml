@@ -1,0 +1,12 @@
+services:
+  worker-html:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hw4_worker_html
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: "no"
+    
