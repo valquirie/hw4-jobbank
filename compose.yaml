@@ -26,3 +26,18 @@ services:
       worker-html:
         condition: service_completed_successfully
     restart: "no"
+
+  scheduler:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hw4_scheduler
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python src/scheduler.py
+    depends_on:
+      worker-js:
+        condition: service_completed_successfully
+    restart: "unless-stopped"
