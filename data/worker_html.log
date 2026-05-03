@@ -1,0 +1,6 @@
+2026-05-03 13:15:15,338 [INFO] === worker-html starting ===
+2026-05-03 13:15:21,274 [INFO] found 15 job URLs
+2026-05-03 13:15:21,277 [INFO] success_rate: 100.0%
+2026-05-03 13:15:21,282 [INFO] saved urls → /app/data/urls.json
+2026-05-03 13:15:21,456 [INFO] duration: 6s
+2026-05-03 13:15:21,456 [INFO] === worker-html done ===

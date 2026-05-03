@@ -14,8 +14,8 @@ RUN pip install --no-cache-dir "crawl4ai>=0.4.0"
 
 RUN crawl4ai-setup || python -m playwright install chromium --with-deps
 
-COPY worker/ ./worker/
+COPY src/ ./src/
 
 RUN mkdir -p data/raw data/normalized
 
-CMD ["python", "worker/crawler.py"]
+CMD ["python", "src/worker_html.py"]

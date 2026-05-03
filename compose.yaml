@@ -1,4 +1,5 @@
 services:
+
   worker-html:
     build:
       context: .
@@ -8,5 +9,20 @@ services:
       - ./data:/app/data
     environment:
       - PYTHONUNBUFFERED=1
+    command: python src/worker_html.py
     restart: "no"
-    
+
+  worker-js:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hw4_worker_js
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python src/worker_js.py
+    depends_on:
+      worker-html:
+        condition: service_completed_successfully
+    restart: "no"
