@@ -24,7 +24,7 @@ data/normalized/   — clean structured JSON files (title, salary, location)
 - duration — time in seconds
 - error_count — number of failed requests
 - | scheduler | src/scheduler.py | — | Runs worker-html + worker-js every 24h |
-| status | src/status.py | data/urls.json + data/ | Shows system status and data freshness |
+- | status | src/status.py | data/urls.json + data/ | Shows system status and data freshness |
 
 ## Data flow
 1. worker-html starts → crawls search page → finds 15 job URLs → saves urls.json
